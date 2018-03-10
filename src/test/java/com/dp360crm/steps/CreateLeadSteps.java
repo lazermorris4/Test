@@ -47,6 +47,7 @@ public class CreateLeadSteps {
 	@Then("^Lead should be created and listed in lead details$")
 	public void lead_should_be_created_and_listed_in_lead_details() throws Throwable {
 		// Write code here that turns the phrase above into concrete actions
+		System.out.println("");
 	}
 
 }
